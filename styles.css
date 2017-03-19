@@ -5,14 +5,29 @@ h1{
 	font-size:30px;
 	font-weight:normal;
 	letter-spacing: 3px;
+	text-align: center;
 }
 h2{
 	font-size: 26px;
 font-weight: normal;
 letter-spacing: 2px;
+text-align: center;
 }
 h3{
 	font-size:22px;
 	font-weight: normal;
 	letter-spacing: 1px;
+	text-align: center;
+}
+.img-circle {
+	display: block;
+	margin: auto;
+
+} 
+p{
+	text-align: center;
+}
+.fa fa-facebook-official{
+	font-size:100px;
+
 }
